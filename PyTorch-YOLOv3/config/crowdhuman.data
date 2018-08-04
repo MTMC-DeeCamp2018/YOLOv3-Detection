@@ -1,0 +1,6 @@
+classes=1
+train=data/CrowdHuman/trainlist.txt
+valid=data/CrowdHuman/validlist.txt
+names=data/crowdhuman.names
+backup=backup/
+eval=crowdhuman
